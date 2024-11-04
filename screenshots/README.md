@@ -46,5 +46,10 @@ Delete events
 
 ### Reset everything
 
+Before
+
 ![18.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/18.png)
+
+After
+
 ![19.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/19.png)
