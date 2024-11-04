@@ -3,6 +3,7 @@
 ![1.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/1.png)
 
 ### Create new event
+
 ![2.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/2.png)
 
 ![3.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/3.png)
@@ -38,10 +39,12 @@ Passing current input
 ![15.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/15.png)
 
 Delete events
+
 ![16.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/16.png)
 ![17.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/17.png)
 ![18.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/18.png)
 
 ### Reset everything
+
 ![18.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/18.png)
 ![19.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/19.png)
