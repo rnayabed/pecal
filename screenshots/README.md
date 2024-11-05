@@ -33,7 +33,7 @@ Passing empty input
 ![12.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/12.png)
 ![13.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/13.png)
 
-Passing current input
+Passing correct input
 
 ![14.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/14.png)
 ![15.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/15.png)
