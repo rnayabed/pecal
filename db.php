@@ -2,7 +2,6 @@
 require_once __DIR__ . '/vendor/autoload.php';
 
 use MongoDB\Client;
-#$uri = getenv('MONGODB_URI');
 
 $uri = 'mongodb://localhost:27017';
 $client = new MongoDB\Client($uri);
