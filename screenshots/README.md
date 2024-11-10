@@ -1,5 +1,7 @@
 # Screenshots
 
+These screenshots are now outdated. Not much has changed except ability to change months, and more input validation.
+
 ![1.png](https://raw.githubusercontent.com/rnayabed/pecal/master/screenshots/1.png)
 
 ### Create new event
